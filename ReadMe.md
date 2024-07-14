@@ -1,5 +1,5 @@
 # 💫 About Me:
-My Name's M Adnan Fauzan Maulana<br>I'm a UI/UX Designer and Frontend Developer<br>Founder and leader GrowDev ID
+As a versatile Frontend Developer, UI Designer, and Video Editor, I offer a unique combination of skills to create responsive, interactive, and visually appealing digital experiences. With over a year of experience, I excel in both coding and designing, ensuring seamless integration between functionality and aesthetics. Additionally, my expertise in video editing allows me to produce high-quality multimedia content.
 
 
 ## 🌐 Socials:
