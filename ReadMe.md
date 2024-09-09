@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a versatile Frontend Developer, UI Designer, and Video Editor, I offer a unique combination of skills to create responsive, interactive, and visually appealing digital experiences. With over a year of experience, I excel in both coding and designing, ensuring seamless integration between functionality and aesthetics. Additionally, my expertise in video editing allows me to produce high-quality multimedia content.
+As a developer, designer and editor. I like collaborative projects because with collaboration I succeed in becoming an inspirational figure. I will create a community with a collaborative and productive system.
 
 
 ## 🌐 Socials:
