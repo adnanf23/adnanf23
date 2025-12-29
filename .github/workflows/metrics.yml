@@ -28,7 +28,3 @@ jobs:
           # === GREEN BOXES (Commit Calendar) ===
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-
-          # === Optional (clean & professional) ===
-          plugin_achievements: yes
-          plugin_achievements_display: compact
