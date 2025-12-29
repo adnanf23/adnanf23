@@ -138,18 +138,11 @@ My long-term mission is to actively contribute to the digital transformation eco
 <!-- My Best Repositories -->
 <div align="center">
 
-  <h3>
-   <img src="./assets/icons/bookmark-white.svg" width="12px">
-   My Best Repositories
-   <img src="./assets/icons/bookmark-black.svg" width="14px">
-  </h3></br>
+
 
 
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/adnanf23/Lembra-Plus-task-app">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=adnanf23&repo=Lembra-Plus-task-app&theme=dark&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9D9D9" />
-    </a>
-    </a>
+        <img width=395 src="./github-metrics.svg" />
 </div>
 
 <p align="center">
