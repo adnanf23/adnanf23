@@ -46,27 +46,27 @@
 
   <div style="flex:1; min-width:260px;">
 
-    <div align="center">
-      <strong>Who Am I?</strong>
-    </div>
+   <div align="center">
 
-    <div align="justify" style="line-height:1.6;">
-      I am a Visual Communication Design (DKV) graduate with a strong foundation in design and digital editing, combined with a self-driven transition into software and web development. Beyond formal education, I independently explored and mastered various aspects of modern technology, continuously expanding my technical depth after graduation.
-      <br><br>
-      At the age of 19–20, I have developed a multidisciplinary skill set that bridges creative design and advanced technology, allowing me to build not only visually compelling products but also scalable and functional digital systems. My primary technical focus areas include:
-      <br><br>
+**Who Am I?**
+</div>
 
-      <ul>
-        <li>Full-Stack Web & Software Development</li>
-        <li>Blockchain Technology</li>
-        <li>AI Agents & Intelligent Systems</li>
-        <li>Digital Product Architecture</li>
-      </ul>
+  <div align="justify">
 
-      I am the Founder of <strong>Gdev ID</strong>, a technology-driven community focused on growth, collaboration, and knowledge sharing among developers and digital talents. In parallel, I lead <strong>Creativolve Agency</strong>, a creative and digital agency delivering design, branding, and technology-driven solutions for individuals and businesses.
-      <br><br>
-      My long-term mission is to actively contribute to the digital transformation ecosystem, leveraging technology as a strategic tool to create impact, efficiency, and innovation. I continuously pursue high standards of learning, execution, and leadership, positioning myself at the intersection of technology, creativity, and entrepreneurship.
-    </div>
+I am a Visual Communication Design (DKV) graduate with a strong foundation in design and digital editing, combined with a self-driven transition into software and web development. Beyond formal education, I independently explored and mastered various aspects of modern technology, continuously expanding my technical depth after graduation.
+
+At the age of 19–20, I have developed a multidisciplinary skill set that bridges creative design and advanced technology, allowing me to build not only visually compelling products but also scalable and functional digital systems, My primary technical focus areas include:
+1. Full-Stack Web & Software Development
+2. Blockchain Technology
+3. AI Agents & Intelligent Systems
+4. Digital Product Architecture
+
+</br> </br>
+I am the Founder of Gdev ID, a technology-driven community focused on growth, collaboration, and knowledge sharing among developers and digital talents. In parallel, I lead Creativolve Agency, a creative and digital agency delivering design, branding, and technology-driven solutions for individuals and businesses.
+
+My long-term mission is to actively contribute to the digital transformation ecosystem, leveraging technology as a strategic tool to create impact, efficiency, and innovation. I continuously pursue high standards of learning, execution, and leadership, positioning myself at the intersection of technology, creativity, and entrepreneurship.
+
+</div>
 
   </div>
 </div>
