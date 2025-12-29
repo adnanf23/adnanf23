@@ -66,9 +66,6 @@ My long-term mission is to actively contribute to the digital transformation eco
 
 
 
-<!-- Gif  -->
-<img align="right" alt="capa-Sobre" width="300" src="./assets/short about.gif"></br>
-
 <!-- A Little More About Me -->
  <h3 align="center">
   A Little More About Me 
