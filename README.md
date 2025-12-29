@@ -16,7 +16,7 @@
 <!--  views/stars/followers -->
 </br>
 <div align="center">
-<a href="https://github.com/Glauedson">
+<a href="https://github.com/adnanf23">
   <img width="180px" 
        src="https://komarev.com/ghpvc/?username=adnanf23&label=Profile%20views&color=000000&style=for-the-badge" 
        alt="Visualizações no perfil"
@@ -38,29 +38,39 @@
 
 </br>
 
-<img src="./assets/profile-transparent.png" width=330 align="left">
-<div align="center">
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:24px;">
 
-**Who Am I?**
+  <div style="flex:0 0 330px; max-width:330px;">
+    <img src="./assets/profile-transparent.png" width="330" alt="Profile Image">
+  </div>
+
+  <div style="flex:1; min-width:260px;">
+
+    <div align="center">
+      <strong>Who Am I?</strong>
+    </div>
+
+    <div align="justify" style="line-height:1.6;">
+      I am a Visual Communication Design (DKV) graduate with a strong foundation in design and digital editing, combined with a self-driven transition into software and web development. Beyond formal education, I independently explored and mastered various aspects of modern technology, continuously expanding my technical depth after graduation.
+      <br><br>
+      At the age of 19–20, I have developed a multidisciplinary skill set that bridges creative design and advanced technology, allowing me to build not only visually compelling products but also scalable and functional digital systems. My primary technical focus areas include:
+      <br><br>
+
+      <ul>
+        <li>Full-Stack Web & Software Development</li>
+        <li>Blockchain Technology</li>
+        <li>AI Agents & Intelligent Systems</li>
+        <li>Digital Product Architecture</li>
+      </ul>
+
+      I am the Founder of <strong>Gdev ID</strong>, a technology-driven community focused on growth, collaboration, and knowledge sharing among developers and digital talents. In parallel, I lead <strong>Creativolve Agency</strong>, a creative and digital agency delivering design, branding, and technology-driven solutions for individuals and businesses.
+      <br><br>
+      My long-term mission is to actively contribute to the digital transformation ecosystem, leveraging technology as a strategic tool to create impact, efficiency, and innovation. I continuously pursue high standards of learning, execution, and leadership, positioning myself at the intersection of technology, creativity, and entrepreneurship.
+    </div>
+
+  </div>
 </div>
 
-<div align="justify">
-
-I am a Visual Communication Design (DKV) graduate with a strong foundation in design and digital editing, combined with a self-driven transition into software and web development. Beyond formal education, I independently explored and mastered various aspects of modern technology, continuously expanding my technical depth after graduation.
-
-At the age of 19–20, I have developed a multidisciplinary skill set that bridges creative design and advanced technology, allowing me to build not only visually compelling products but also scalable and functional digital systems, My primary technical focus areas include:
-1. Full-Stack Web & Software Development
-2. Blockchain Technology
-3. AI Agents & Intelligent Systems
-4. Digital Product Architecture
-
-</br> </br>
-I am the Founder of Gdev ID, a technology-driven community focused on growth, collaboration, and knowledge sharing among developers and digital talents. In parallel, I lead Creativolve Agency, a creative and digital agency delivering design, branding, and technology-driven solutions for individuals and businesses.
-
-My long-term mission is to actively contribute to the digital transformation ecosystem, leveraging technology as a strategic tool to create impact, efficiency, and innovation. I continuously pursue high standards of learning, execution, and leadership, positioning myself at the intersection of technology, creativity, and entrepreneurship.
-
-</div>
-</br>
 
 
 
